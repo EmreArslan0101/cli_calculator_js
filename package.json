@@ -1,0 +1,17 @@
+{
+  "name": "cli_calculator_js",
+  "version": "1.0.0",
+  "description": "A calculator that can calculate operations that are written in string like from console,prompt(),<input>,etc.",
+  "main": "calc.js",
+  "scripts": {
+    "calc": "node calc"
+  },
+  "keywords": [
+    "calculate",
+    "calculator",
+    "prompt",
+    "cli"
+  ],
+  "author": "Emre ARSLAN",
+  "license": "ISC"
+}
