@@ -1,0 +1,1 @@
+This is made for solving unlimitied length operations, and doing this from cli, "prompt()" or etc.
